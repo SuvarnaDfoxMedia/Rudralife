@@ -5,7 +5,7 @@ function App() {
   return (
     <>
     {/* <Navbar/> */}
-    <h1>Testing</h1>
+    <h1>Testing Git Commit</h1>
     
 <Pdf/>
 
